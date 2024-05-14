@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+.cabecalho{
+    background-image:linear-gradient(to right, #FB9AD1, #955B7c);
+color: rgb(0, 0, 0);
+display:flex;
+justify-content: space-aroud;
+align-items: center;
+padding: 15px 0;}
+.cabecalho{
+    color:black;
+    font-size: 50px;
+
+.cabecalho-image
+    width: 10%
+    aling-items: normal;
+.cabecalho-lista
+display: inline-block;
+font-size: 25px;
+margin: 0 16px;
+section: .corpo;
+img: .corpo_image;
